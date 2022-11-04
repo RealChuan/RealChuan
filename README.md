@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋</h1>
 
-- 👋 Hi, I'm CPP Coder
+- 👋 Hi, I'm CPP Coder.
 - 👀 I am interested in graphics, audio and video, server.
 - 🌱 I am learning ffmpeg framework, yuv image related knowledge and opengl rendering.
 
