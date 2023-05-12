@@ -4,12 +4,6 @@
 - 👀 I am interested in audio and video, graphics, and server development。
 - ⚡ https://realchuan.github.io
 
----
-
-**🙏 正在找工作，宁波、上海、杭州都可以，岗位QT/C++开发，如果有合适的岗位推荐欢迎联系我**
-
----
-
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=RealChuan&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=RealChuan&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealChuan&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
